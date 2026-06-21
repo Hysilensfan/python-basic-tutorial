@@ -25,4 +25,4 @@ print(str(o))             # convert to string: convert the integer 'o' to a stri
 
 
 c: bool = True            # bool value: define c is True
-print("Y" if c else "N")  # conditional expression: if c is True print Y else  print N
+print(type(c))  # c should return a boolean in theory

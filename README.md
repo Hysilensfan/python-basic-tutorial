@@ -1,3 +1,5 @@
-# please read it before you learning python in my site!🔥
-## this is a tutorial project to python programming langauge
-## before you share anything in this site,please tell the creator(me),OK?😭😭😭
+# please read it before you learning python on my site!🔥
+## this is  a python tutorial to help u learning python programming more easierly.
+## before you share anything on this site,please contect the creator(me),OK?😭😭😭
+### ya :)
+## if you understand about above,  feel free to read my project yet!

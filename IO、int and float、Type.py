@@ -11,7 +11,7 @@ Default:
 □  end(end character) is a newline('\n')
 """
 s = input()
-print(type(s).__name__)  # To check a object's type, so this statement would print:<class 'str'>
+print(type(s))  # To check a object's type, so this statement would print:<class 'str'>
 print(type(s).__name__)  # Because __name__ will return a attribute's name, so this statement would print:str
 
 print(1, 2, 3, 4, 5, sep=" ", end="\n")  # default behavior: elements separated by space and end with newline

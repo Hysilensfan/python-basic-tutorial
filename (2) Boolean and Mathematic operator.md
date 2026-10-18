@@ -1,4 +1,4 @@
-
+## Mathematic operator
 As the common as daily, we using mathematic operating when do some expressions.
 Fro example:
 Today, I wanna know that 8 ÷ 2
@@ -25,11 +25,11 @@ print(15 % 2)      # remainder: remainder of 15 divided by 2
 print(15 ** 2)     # exponentiation: 15 squared
 
 
-Boolean:
+## Boolean:
 Boolean or call it bool
 It a TF(True or False) Value, and it can stand for a condition Whether it is valid or not.
 
-```
+```py
 temp: bool = True            # bool value: define c is True
 print(type(temp).__name__)  # c should return a boolean in theory
 print(1 == True)  # In Computing, 1 is True;0 is False

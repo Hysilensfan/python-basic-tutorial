@@ -30,9 +30,10 @@ d = int(input())
 print(type(d).__name__)  # This statement would print:int
 ```
 
-"""
-float() function:
+## float() function
 This function will converts object into float
-"""
+
+```py
 d = float(input())
 print(type(d).__name__)  # This statement would print:float
+```

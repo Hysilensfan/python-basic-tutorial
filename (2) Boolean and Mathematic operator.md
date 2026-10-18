@@ -16,14 +16,15 @@ Mathematic operator|In daily|Explains
 |//                 | \|      | divisibility no remainder
 |%                  | mod    |modulo division
 |**                 | ^      |exponentiation
-"""
+
+```py
 print(15 + 2)      # addition: calculate 15 + 2 and print result
 print(15 - 2)      # subtraction: calculate 15 - 2 and print result
 print(15 / 2)      # Division: calculate 15 ÷ 2 (float Division)
 print(15 // 2)     # Divisible: quotient of 15 Divisible by 2
 print(15 % 2)      # remainder: remainder of 15 divided by 2
 print(15 ** 2)     # exponentiation: 15 squared
-
+```
 
 ## Boolean:
 Boolean or call it bool

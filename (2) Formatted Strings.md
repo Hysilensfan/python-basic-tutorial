@@ -1,7 +1,7 @@
 ## Format string
-f - string is modern python standard
-`%` is legacy C-style approach
-`.format()` is transitional style
+f - string is modern python standard.
+`%` is legacy C-style approach.
+`.format()` is transitional style.
 
 ```py
 a: int = 1919810

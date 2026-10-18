@@ -2,6 +2,7 @@
 f - string is modern python standard.
 
 `%` is legacy C-style approach.
+
 `.format()` is transitional style.
 
 ```py

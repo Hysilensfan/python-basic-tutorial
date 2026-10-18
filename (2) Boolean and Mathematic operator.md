@@ -1,7 +1,9 @@
 ## Mathematic operator
 As the common as daily, we using mathematic operating when do some expressions.
-Fro example:
+
+For example:
 Today, I wanna know that 8 ÷ 2
+
 so, you'll think about:
 Take 8 as the dividend and 2 as the divisor. 8 is divisible by 2, with a quotient of 4 and a remainder of 0.
 
